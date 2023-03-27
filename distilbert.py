@@ -1,6 +1,3 @@
-Original file is located at
-    https://colab.research.google.com/drive/1IjXz8LW-3s51il5-0odrbbZCKzAMCbiI
-
 """
 **DistilBERT model**
 
