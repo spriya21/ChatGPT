@@ -1,0 +1,10 @@
+transformers
+numpy
+seaborn
+pandas
+torch
+scikit-learn
+openai
+streamlit
+tiktoken
+plotly

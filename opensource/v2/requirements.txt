@@ -1,0 +1,6 @@
+transformers
+numpy
+seaborn
+pandas
+torch
+scikit-learn
