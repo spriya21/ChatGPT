@@ -1,4 +1,4 @@
-## Customer support using GPT models 💻
+## Chatbot using GPT models 💻
 
 The goal of this project is to create a Question & answering model to answer questions around FIFA 2022. This can be used by the customer support person or anyone who wants to try a product or having question on using the product
 
