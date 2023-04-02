@@ -1,17 +1,19 @@
-## Customer support using GPT models 💻
+## Chatbot using GPT models 💻
 
-The goal of this project is to create a Question & answering model to answer questions around the IBM product(s). This can be used by the customer support person or anyone who wants to try the product or having question on using the product
+The goal of this project is to create a Question & answering model to answer questions around FIFA 2022. This can be used by the customer support person or anyone who wants to try a product or having question on using the product
 
- - Input: product documentation, customer support tickets, publicly available articles/blogs
+ - Input: FIFA dataset, publicly available articles/blogs
  - Topics: installation / configuration / how to use type of questions 
 
-## Scope of Hackathon 🌐
+## Scope 🌐
 
-In order to create models for customer support, the idea is to try creating the models on well known topics such as **"FIFA 2022 World Cup"**. Reasons are as follows 
+The idea is to try creating the models on well known topics such as **"FIFA 2022 World Cup"**. Reasons are as follows 
 
  - Readily available data 
  - answers are already known 
  - easy to create a quiz and validate how good are these models 
+ 
+ This can be extended to any topic as per need, say the documentation of a product.
 
 **Approach**: We want to try with OpenAI GPT models as well as other open source models for this problem. OpenAI APIs are paid service and we want to be able to compare how it performs compare to some of the open source models such as BERT, DistilBERT, GPT-NeoXT-Chat-Base-20B and others. 
 
